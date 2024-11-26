@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 17:18:21 MST 2014
+# 
+# Start of session at: Fri Apr 03 20:10:16 2020
+# Process ID: 20200
+# Log file: C:/Users/Jeon/Desktop/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/Jeon/Desktop/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

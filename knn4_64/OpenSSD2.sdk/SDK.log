@@ -1,0 +1,126 @@
+13:12:49 INFO  : Processing command line option -hwspec C:/Work/projects-viv14_4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2.hdf.
+13:12:56 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+13:27:35 INFO  : FPGA configured successfully with bitstream "C:/Work/projects-viv14_4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+13:27:54 INFO  : ps7_init is completed.
+13:27:54 INFO  : ps7_post_config is completed.
+13:27:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:29:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:29:47 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:30:33 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:30:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:57:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:03:25 INFO  : Processing command line option -hwspec D:/works_in_swiss-cosmos-resynth/projects-viv14_4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2.hdf.
+14:05:06 INFO  : FPGA configured successfully with bitstream "D:/works_in_swiss-cosmos-resynth/projects-viv14_4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+14:12:14 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+14:12:14 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+14:12:14 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+14:12:24 INFO  : ps7_init is completed.
+14:12:24 INFO  : ps7_post_config is completed.
+14:12:24 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:12:37 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+19:34:31 INFO  : Processing command line option -hwspec C:/Users/Jeon/Desktop/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2.hdf.
+19:34:36 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:37:07 ERROR : SDK has detected that project OpenSSD2_hw_platform_0 has been deleted (or renamed).
+This project was referenced by a BSP project, which will now fail to compile properly.
+
+We recommend that you create a new BSP project pointing to a valid hardware project.
+19:41:58 INFO  : Processing command line option -hwspec C:/Users/Jeon/Desktop/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2.hdf.
+19:42:01 INFO  : Checking for hwspec changes in the project OpenSSD2_hw_platform_2.
+19:42:02 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:42:35 INFO  : Processing command line option -hwspec C:/Users/Jeon/Desktop/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2.hdf.
+19:42:38 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+19:44:38 INFO  : FPGA configured successfully with bitstream "C:/Users/Jeon/Desktop/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+19:45:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:45:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:45:11 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:45:17 INFO  : ps7_init is completed.
+19:45:17 INFO  : ps7_post_config is completed.
+19:45:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:51:46 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:46 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:46 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:46 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+19:51:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Work\projects-viv14_4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL3_bsp\system.mss
+20:10:18 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:29:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:20 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:21 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:22 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:24 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+14:29:26 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+16:31:44 INFO  : FPGA configured successfully with bitstream "E:/OpenSSD/OpenSSD_project/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+16:31:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+16:31:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+16:31:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+16:31:57 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+16:33:26 INFO  : ps7_init is completed.
+16:33:27 INFO  : ps7_post_config is completed.
+16:33:27 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:15:17 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+21:15:17 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+21:15:49 INFO  : FPGA configured successfully with bitstream "E:/OpenSSD/OpenSSD_project/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+21:21:12 INFO  : FPGA configured successfully with bitstream "E:/OpenSSD/OpenSSD_project/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+21:21:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:21:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:21:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:21:16 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:21:37 INFO  : ps7_init is completed.
+21:21:37 INFO  : ps7_post_config is completed.
+21:21:37 INFO  : Processor reset is completed for ps7_cortexa9_0
+21:28:42 INFO  : FPGA Cable Disconnected. All active launches will be terminated.
+21:28:42 WARN  : Terminating existing sessions on processor ps7_cortexa9_0
+21:29:42 INFO  : FPGA configured successfully with bitstream "E:/OpenSSD/OpenSSD_project/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+21:29:45 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:45 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:45 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:45 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:56 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:56 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:56 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:29:56 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+21:30:15 INFO  : ps7_init is completed.
+21:30:15 INFO  : ps7_post_config is completed.
+21:30:15 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:23:34 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:23:34 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:23:34 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:23:34 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:24:47 INFO  : FPGA configured successfully with bitstream "E:/OpenSSD/OpenSSD_project/OpenSSD2-8C8W-16K_14.4/openssd-hynix-16k-prj-viv14_4/OpenSSD2.sdk/OpenSSD2_hw_platform_0/OpenSSD2.bit"
+11:25:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:25:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:25:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:25:00 WARN  :  [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+ [Hsi 55-1559] Software Design already exists with Name C:\Users\Jeon\Desktop\OpenSSD2-8C8W-16K_14.4\openssd-hynix-16k-prj-viv14_4\OpenSSD2.sdk\GreedyFTL_bsp\system.mss
+11:25:17 INFO  : ps7_init is completed.
+11:25:17 INFO  : ps7_post_config is completed.
+11:25:18 INFO  : Processor reset is completed for ps7_cortexa9_0
